@@ -5,9 +5,9 @@
 
 <img src="./image/name-banner.svg" width="100%" />
 
-<img src="./image/profile-banner.gif" width="55%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+Production+AI+Systems;Crafting+LLM-powered+Agents+%26+RAG+Pipelines;SWE+Intern+%40+Stratova.ai;Knight+on+LeetCode)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+Engineer;Software+Developer;Leetcode+Knight)](https://git.io/typing-svg)
+<img src="./image/profile-banner.gif" width="55%" />
 
 <p>
   <a href="https://portfolio-website-ochre-six-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
