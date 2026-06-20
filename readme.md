@@ -62,26 +62,6 @@ class AIEngineer:
         return ["LLMs & Agentic AI", "RAG Systems", "Computer Vision", "Applied ML"]
 ```
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
-
----
-
-### Experience
-
-**Software Engineering Intern — Stratova.ai**
-Building JANY, a production multi-agent AI customer support system, and AUGY, a RAG pipeline using FAISS, ChromaDB, and LangGraph.
-
-**AI/ML Intern — ZeroEka (Nirmaan, IIT Madras)**
-Applied machine learning to early-stage product and research initiatives.
-
-**Joint Technical Head — Exadata Club, SRMIST**
-Technical leadership for the institute's engineering and research club.
-
-**Project Admin — GSSoC 2026, AI Agents Track**
-Coordinating open-source contributions for the AI Agents track of GirlScript Summer of Code 2026.
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
-
 ---
 
 # Technical Skills
@@ -133,8 +113,6 @@ Coordinating open-source contributions for the AI Agents track of GirlScript Sum
 
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
-
 ---
 
 ### Research
@@ -156,18 +134,6 @@ Coordinating open-source contributions for the AI Agents track of GirlScript Sum
 | **AUGY** | RAG pipeline using FAISS, TF-IDF embeddings, ChromaDB, and LangGraph |
 | **[Leetcode-Problems](https://github.com/meswaramuthu/Leetcode-Problems)** | Daily LeetCode solutions in Java covering core DSA concepts |
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
-
----
-
-### Certifications
-
-![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Oracle OCI](https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-AI%20Agents-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-Applied%20Skills-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
-
 ---
 
 ### GitHub Activity
@@ -181,17 +147,13 @@ Coordinating open-source contributions for the AI Agents track of GirlScript Sum
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meswaramuthu&theme=default&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meswaramuthu&theme=minimal&hide_border=true" />
-</p>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
-
 ---
 
 <div align="center">
 
 Open to AI/ML engineering and software development roles. Feel free to reach out via email or LinkedIn.
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 </div>
 
