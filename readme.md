@@ -125,14 +125,14 @@ class AIEngineer:
 
 ### Projects
 
-| Project | Description |
-|---|---|
-| **[Achievement Management System](https://github.com/meswaramuthu/Achievement-Management-System)** | Full-stack platform — ![Stars](https://img.shields.io/github/stars/meswaramuthu/Achievement-Management-System?style=flat-square&label=stars) ![Forks](https://img.shields.io/github/forks/meswaramuthu/Achievement-Management-System?style=flat-square&label=forks) |
-| **DemandIQ** | Hybrid LSTM + XGBoost + Random Forest demand forecasting engine |
-| **CollisionGuard AI** | Real-time collision detection using YOLOv8 and MiDaS depth estimation |
-| **SyllabiX** | Gemini API-powered personalized study plan generator |
-| **AUGY** | RAG pipeline using FAISS, TF-IDF embeddings, ChromaDB, and LangGraph |
-| **[Leetcode-Problems](https://github.com/meswaramuthu/Leetcode-Problems)** | Daily LeetCode solutions in Java covering core DSA concepts |
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Achievement Management System](https://github.com/meswaramuthu/Achievement-Management-System)** | Full-stack platform — ![Stars](https://img.shields.io/github/stars/meswaramuthu/Achievement-Management-System?style=flat-square&label=stars) ![Forks](https://img.shields.io/github/forks/meswaramuthu/Achievement-Management-System?style=flat-square&label=forks) | `React` `Node.js` `MongoDB` |
+| **DemandIQ** | Hybrid LSTM + XGBoost + Random Forest demand forecasting engine | `Python` `TensorFlow` `XGBoost` |
+| **CollisionGuard AI** | Real-time collision detection using YOLOv8 and MiDaS depth estimation | `Python` `YOLOv8` `OpenCV` |
+| **SyllabiX** | Gemini API-powered personalized study plan generator | `Python` `Gemini API` `LangChain` |
+| **AUGY** | RAG pipeline using FAISS, TF-IDF embeddings, ChromaDB, and LangGraph | `Python` `LangGraph` `ChromaDB` `FAISS` |
+| **[Leetcode-Problems](https://github.com/meswaramuthu/Leetcode-Problems)** | Daily LeetCode solutions in Java covering core DSA concepts | `Java` `Data Structures` `Algorithms` |
 
 ---
 
@@ -149,9 +149,9 @@ class AIEngineer:
 
 ---
 
-<div align="center">
-
 Open to AI/ML engineering and software development roles. Feel free to reach out via email or LinkedIn.
+
+<div align="center">
 
 <p align="center"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
