@@ -157,7 +157,7 @@ Coordinating open-source contributions for the AI Agents track of GirlScript Sum
 ### GitHub Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=meswaramuthu&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=meswaramuthu&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meswaramuthu&layout=compact&theme=default&hide_border=true" />
 </p>
 
