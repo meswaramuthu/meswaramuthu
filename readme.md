@@ -45,7 +45,7 @@ class AIEngineer:
         }
 
         self.leadership = [
-            "Joint Technical Head, Exadata Club, SRMIST",
+            "Technical Head, Exadata Club, SRMIST",
             "Project Admin, GSSoC 2026 — AI Agents Track",
             "Microsoft Learn Student Ambassador (ID: 502099)",
         ]
