@@ -3,7 +3,7 @@
 
 <img src="./image/name-banner.svg" width="100%" />
 
-### Software Engineering Intern, Stratova.ai · B.Tech CSE (AI/ML), SRM Institute of Science and Technology
+### Software Engineering Intern, Stratova.ai
 
 <img src="./image/profile-banner.gif" width="55%" />
 
