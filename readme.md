@@ -2,7 +2,7 @@
 <div align="center">
 <img src="./image/name-banner.svg" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2800&pause=1200&color=ff4d4d&center=true&vCenter=true&width=1000&lines=🚀Building+Production+AI+Systems;Crafting+LLM-powered+Agents+%26+RAG+Pipelines;SWE+Intern+%40+Stratova.ai;Knight+on+LeetCode)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2800&pause=1200&color=ff4d4d&center=true&vCenter=true&width=1000&lines=🚀Building+Production+AI+Systems⚡;🤖Crafting+LLM-powered+Agents+%26+RAG+Pipelines🦾;📌SWE+Intern+%40+Stratova.ai;🏆Knight+on+LeetCode)](https://git.io/typing-svg)
 
 <img src="./image/profile-banner.gif" width="55%" />
 
