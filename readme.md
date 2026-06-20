@@ -2,7 +2,7 @@
 
 # Eswaramuthu M
 
-### Software Engineering Intern, Stratova.ai · B.Tech CSE (AI/ML), SRM Institute of Science and Technology
+### Software Engineering Intern, Stratova.ai
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+AI+agents+and+RAG+pipelines;LangGraph+%7C+Claude+API+%7C+ChromaDB+%7C+FAISS;LeetCode+Knight+~1906+rating+(Top+4.3%25))](https://git.io/typing-svg)
 
