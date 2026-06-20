@@ -72,28 +72,54 @@ Coordinating open-source contributions for the AI Agents track of GirlScript Sum
 
 ---
 
-### Technical Skills
+# Technical Skills
+
+<div align="center">
+
+## Languages & Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,react" />
 </p>
 
-**AI / ML**
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Data & Infrastructure**
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
 
-**Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## Backend, Data & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,flask,fastapi,mysql,docker,aws,git" />
+</p>
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## AI & ML Power
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## Agentic AI & Retrieval
+
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/CHROMADB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/ORACLE%20OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
 
 ---
 
