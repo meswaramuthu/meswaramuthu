@@ -1,8 +1,9 @@
+<a name="top"></a>
 <div align="center">
 
 # Eswaramuthu M
 
-### Software Engineering Intern, Stratova.ai
+### Software Engineering Intern, Stratova.ai · B.Tech CSE (AI/ML), SRM Institute of Science and Technology
 
 <img src="./image/profile-banner.gif" width="55%" />
 
@@ -30,6 +31,11 @@ class AIEngineer:
         self.role = "Software Engineering Intern, Stratova.ai"
         self.education = "B.Tech CSE (AI/ML), SRM IST — Vadapalani | CGPA 9.51 | Class of 2027"
 
+        self.experience = [
+            {"role": "Software Engineering Intern", "org": "Stratova.ai", "status": "current"},
+            {"role": "AI/ML Intern", "org": "ZeroEka (Nirmaan, IIT Madras)", "status": "past"},
+        ]
+
         self.currently_building = [
             "JANY — production AI customer support agent",
             "AUGY — RAG pipeline (FAISS, ChromaDB, Gemini embeddings, LangGraph)",
@@ -47,7 +53,7 @@ class AIEngineer:
         }
 
         self.leadership = [
-            "Technical Head, Exadata Club, SRMIST",
+            "Joint Technical Head, Exadata Club, SRMIST",
             "Project Admin, GSSoC 2026 — AI Agents Track",
             "Microsoft Learn Student Ambassador (ID: 502099)",
         ]
@@ -55,6 +61,8 @@ class AIEngineer:
     def focus_areas(self):
         return ["LLMs & Agentic AI", "RAG Systems", "Computer Vision", "Applied ML"]
 ```
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 ---
 
@@ -71,6 +79,8 @@ Technical leadership for the institute's engineering and research club.
 
 **Project Admin — GSSoC 2026, AI Agents Track**
 Coordinating open-source contributions for the AI Agents track of GirlScript Summer of Code 2026.
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 ---
 
@@ -123,6 +133,8 @@ Coordinating open-source contributions for the AI Agents track of GirlScript Sum
 
 </div>
 
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+
 ---
 
 ### Research
@@ -143,6 +155,8 @@ Coordinating open-source contributions for the AI Agents track of GirlScript Sum
 | **SyllabiX** | Gemini API-powered personalized study plan generator |
 | **AUGY** | RAG pipeline using FAISS, TF-IDF embeddings, ChromaDB, and LangGraph |
 | **[Leetcode-Problems](https://github.com/meswaramuthu/Leetcode-Problems)** | Daily LeetCode solutions in Java covering core DSA concepts |
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 ---
 
@@ -171,6 +185,8 @@ Coordinating open-source contributions for the AI Agents track of GirlScript Sum
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meswaramuthu&theme=minimal&hide_border=true" />
 </p>
 
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+
 ---
 
 <div align="center">
@@ -178,3 +194,5 @@ Coordinating open-source contributions for the AI Agents track of GirlScript Sum
 Open to AI/ML engineering and software development roles. Feel free to reach out via email or LinkedIn.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
