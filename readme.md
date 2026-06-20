@@ -1,32 +1,32 @@
 <div align="center">
 
-# Hi, I'm Eswaramuthu M 👋
+# Eswaramuthu M
 
-### SWE Intern @ Stratova.ai · AI/ML @ SRM Institute of Science and Technology
+### Software Engineering Intern, Stratova.ai · B.Tech CSE (AI/ML), SRM Institute of Science and Technology
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+AI+agents+%26+RAG+pipelines;LangGraph+%7C+Claude+API+%7C+ChromaDB+%7C+FAISS;LeetCode+Knight+~1906+(Top+4.3%25);GSSoC+2026+%E2%80%94+AI+Agents+Track+Admin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+AI+agents+and+RAG+pipelines;LangGraph+%7C+Claude+API+%7C+ChromaDB+%7C+FAISS;LeetCode+Knight+~1906+rating+(Top+4.3%25))](https://git.io/typing-svg)
 
 <p>
-  <a href="https://portfolio-website-ochre-six-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/meswaramuthu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/meswaramuthu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:meswaramuthu28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/meswaramuthu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/meswarajh9z"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://portfolio-website-ochre-six-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/meswaramuthu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/meswaramuthu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:meswaramuthu28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/meswaramuthu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/meswarajh9z"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
 
-### 🧠 About Me
+### Summary
 
 ```python
 class AIEngineer:
     def __init__(self):
         self.name = "Eswaramuthu M"
-        self.role = "Software Engineering Intern @ Stratova.ai"
-        self.education = "B.Tech CSE (AI/ML), SRM IST — Vadapalani | CGPA 9.51 | 2027"
+        self.role = "Software Engineering Intern, Stratova.ai"
+        self.education = "B.Tech CSE (AI/ML), SRM IST — Vadapalani | CGPA 9.51 | Class of 2027"
 
         self.currently_building = [
             "JANY — production AI customer support agent",
@@ -40,14 +40,13 @@ class AIEngineer:
 
         self.competitive_programming = {
             "platform": "LeetCode",
-            "handle": "meswaramuthu",
             "rank": "Knight",
             "rating": "~1906 (Top 4.3% globally)",
         }
 
         self.leadership = [
-            "Joint Technical Head — Exadata Club, SRMIST",
-            "Project Admin — GSSoC 2026, AI Agents Track",
+            "Joint Technical Head, Exadata Club, SRMIST",
+            "Project Admin, GSSoC 2026 — AI Agents Track",
             "Microsoft Learn Student Ambassador (ID: 502099)",
         ]
 
@@ -57,86 +56,97 @@ class AIEngineer:
 
 ---
 
-### 🚀 Currently
+### Experience
 
-- 🔭 Building **JANY**, a production multi-agent AI customer support system, as an SWE Intern at **Stratova.ai**
-- 📝 Writing up **"Hallucination-Aware RAG Pipeline with Self-Verification Loop"** for IEEE/Scopus submission
-- 🏛️ Serving as **Joint Technical Head, Exadata Club** and **Project Admin, GSSoC 2026 (AI Agents Track)**
-- 🧩 Solving LeetCode weekly/biweekly contests — Knight, ~1906 rating, top ~4.3% globally
-- 🌱 Previously: AI/ML Intern at **ZeroEka** (Nirmaan, IIT Madras)
+**Software Engineering Intern — Stratova.ai**
+Building JANY, a production multi-agent AI customer support system, and AUGY, a RAG pipeline using FAISS, ChromaDB, and LangGraph.
+
+**AI/ML Intern — ZeroEka (Nirmaan, IIT Madras)**
+Applied machine learning to early-stage product and research initiatives.
+
+**Joint Technical Head — Exadata Club, SRMIST**
+Technical leadership for the institute's engineering and research club.
+
+**Project Admin — GSSoC 2026, AI Agents Track**
+Coordinating open-source contributions for the AI Agents track of GirlScript Summer of Code 2026.
 
 ---
 
-### 🛠️ Tech Stack
+### Technical Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,flask,fastapi" />
 </p>
 
 **AI / ML**
-[![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Data / Infra**
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+**Data & Infrastructure**
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Cloud / Platforms**
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+**Cloud & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📘 Research & Publications
+### Research
 
 | Title | Status |
 |---|---|
-| **Hallucination-Aware RAG Pipeline with Self-Verification Loop** — dual-LLM architecture with critic-based verification | 🔄 In preparation — IEEE/Scopus target |
+| **Hallucination-Aware RAG Pipeline with Self-Verification Loop** — dual-LLM architecture with critic-based verification | In preparation — IEEE/Scopus target |
 
 ---
 
-### 🚧 Featured Projects
+### Projects
 
 | Project | Description |
 |---|---|
-| **Achievement Management System** | Full-stack platform · ⭐ 50+ stars · 🍴 160+ forks |
+| **[Achievement Management System](https://github.com/meswaramuthu/Achievement-Management-System)** | Full-stack platform — ![Stars](https://img.shields.io/github/stars/meswaramuthu/Achievement-Management-System?style=flat-square&label=stars) ![Forks](https://img.shields.io/github/forks/meswaramuthu/Achievement-Management-System?style=flat-square&label=forks) |
 | **DemandIQ** | Hybrid LSTM + XGBoost + Random Forest demand forecasting engine |
-| **CollisionGuard AI** | Real-time collision detection using YOLOv8 + MiDaS depth estimation |
+| **CollisionGuard AI** | Real-time collision detection using YOLOv8 and MiDaS depth estimation |
 | **SyllabiX** | Gemini API-powered personalized study plan generator |
 | **AUGY** | RAG pipeline using FAISS, TF-IDF embeddings, ChromaDB, and LangGraph |
+| **[Leetcode-Problems](https://github.com/meswaramuthu/Leetcode-Problems)** | Daily LeetCode solutions in Java covering core DSA concepts |
 
 ---
 
-### 🎓 Certifications
+### Certifications
 
-[![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![Oracle OCI](https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-AI%20Agents-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
-[![Microsoft](https://img.shields.io/badge/Microsoft-Applied%20Skills-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](#)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Oracle OCI](https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-AI%20Agents-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Applied%20Skills-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=meswaramuthu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meswaramuthu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=meswaramuthu&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meswaramuthu&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meswaramuthu&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meswaramuthu&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meswaramuthu&theme=minimal&hide_border=true" />
 </p>
 
 ---
 
 <div align="center">
 
-*Currently chasing FAANG/Big Tech placements — one RAG pipeline, one LeetCode contest, and one IEEE draft at a time.*
+Open to AI/ML engineering and software development roles. Feel free to reach out via email or LinkedIn.
 
 </div>
