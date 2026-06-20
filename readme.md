@@ -153,7 +153,7 @@ class AIEngineer:
 
 Open to AI/ML engineering and software development roles. Feel free to reach out via email or LinkedIn.
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+<p align="center"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 </div>
 
