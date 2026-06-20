@@ -1,13 +1,13 @@
 <a name="top"></a>
 <div align="center">
 
-# Eswaramuthu M
+<img src="./image/name-banner.svg" width="100%" />
 
 ### Software Engineering Intern, Stratova.ai · B.Tech CSE (AI/ML), SRM Institute of Science and Technology
 
 <img src="./image/profile-banner.gif" width="55%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+AI+agents+and+RAG+pipelines;LangGraph+%7C+Claude+API+%7C+ChromaDB+%7C+FAISS;LeetCode+Knight+~1906+rating+(Top+4.3%25))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+Engineer;Software+Developer;Leetcode+Knight)](https://git.io/typing-svg)
 
 <p>
   <a href="https://portfolio-website-ochre-six-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
