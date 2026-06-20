@@ -1,9 +1,9 @@
 <a name="top"></a>
 <div align="center">
 
-<img src="./image/name-banner.svg" width="100%" />
+<h3 style="color: #ff4d4d;">Software Engineering Intern, Stratova.ai</h3>
 
-### Software Engineering Intern, Stratova.ai
+<img src="./image/name-banner.svg" width="100%" />
 
 <img src="./image/profile-banner.gif" width="55%" />
 
