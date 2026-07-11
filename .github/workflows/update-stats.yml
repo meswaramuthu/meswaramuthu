@@ -15,15 +15,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch GitHub Stats SVGs
-        run: |
-          mkdir -p image
-          # Fetch Main Stats
-          curl -s -o image/github-stats.svg "https://github-readme-stats.vercel.app/api?username=meswaramuthu&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
-          # Fetch Top Languages
-          curl -s -o image/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=meswaramuthu&layout=compact&theme=default&hide_border=true"
-          # Fetch Streak Stats
-          curl -s -o image/streak-stats.svg "https://github-readme-streak-stats.herokuapp.com/?user=meswaramuthu&theme=default&hide_border=true"
+      - name: Generate Main Stats (Includes Private)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=meswaramuthu&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true
+          path: image/github-stats.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=meswaramuthu&layout=compact&theme=default&hide_border=true
+          path: image/top-langs.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          github_user: meswaramuthu
+          step_commit_token: ${{ secrets.GH_PAT }}
+          output: image/streak-stats.svg
+          theme: default
+          hide_border: true
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
