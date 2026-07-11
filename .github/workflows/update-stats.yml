@@ -1,0 +1,32 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch: # Allows you to manually trigger the workflow
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push changes to the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub Stats SVGs
+        run: |
+          mkdir -p image
+          # Fetch Main Stats
+          curl -s -o image/github-stats.svg "https://github-readme-stats.vercel.app/api?username=meswaramuthu&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
+          # Fetch Top Languages
+          curl -s -o image/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=meswaramuthu&layout=compact&theme=default&hide_border=true"
+          # Fetch Streak Stats
+          curl -s -o image/streak-stats.svg "https://github-readme-streak-stats.herokuapp.com/?user=meswaramuthu&theme=default&hide_border=true"
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github stats automatically"
+          file_pattern: "image/*.svg"

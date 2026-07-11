@@ -137,12 +137,12 @@ class AIEngineer:
 ### GitHub Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=meswaramuthu&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meswaramuthu&layout=compact&theme=default&hide_border=true" />
+  <img height="165em" src="./image/github-stats.svg" />
+  <img height="165em" src="./image/top-langs.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meswaramuthu&theme=default&hide_border=true" />
+  <img src="./image/streak-stats.svg" />
 </p>
 
 ---
